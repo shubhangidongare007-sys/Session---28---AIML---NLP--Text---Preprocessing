@@ -1,0 +1,21 @@
+text,emotions,emotion_encoded,text_lower,text_no_punctuation,text_no_numbers,text_ascii,text_no_stopwords,cleaned_text,text_length
+I feel very happy today,joy,2,i feel very happy today,i feel very happy today,i feel very happy today,i feel very happy today,feel happy today,feel happy today,3
+I am feeling sad today,sadness,4,i am feeling sad today,i am feeling sad today,i am feeling sad today,i am feeling sad today,feeling sad today,feeling sad today,3
+I am very angry right now,anger,0,i am very angry right now,i am very angry right now,i am very angry right now,i am very angry right now,angry right,angry right,2
+I am scared of the dark,fear,1,i am scared of the dark,i am scared of the dark,i am scared of the dark,i am scared of the dark,scared dark,scared dark,2
+I love my family very much,love,3,i love my family very much,i love my family very much,i love my family very much,i love my family very much,love family much,love family much,3
+This is a very big surprise,surprise,5,this is a very big surprise,this is a very big surprise,this is a very big surprise,this is a very big surprise,big surprise,big surprise,2
+Today I feel wonderful,joy,2,today i feel wonderful,today i feel wonderful,today i feel wonderful,today i feel wonderful,today feel wonderful,today feel wonderful,3
+I feel lonely and sad,sadness,4,i feel lonely and sad,i feel lonely and sad,i feel lonely and sad,i feel lonely and sad,feel lonely sad,feel lonely sad,3
+He made me very angry,anger,0,he made me very angry,he made me very angry,he made me very angry,he made me very angry,made angry,made angry,2
+I am afraid of the results,fear,1,i am afraid of the results,i am afraid of the results,i am afraid of the results,i am afraid of the results,afraid results,afraid results,2
+I love spending time with my friends,love,3,i love spending time with my friends,i love spending time with my friends,i love spending time with my friends,i love spending time with my friends,love spending time friends,love spending time friends,4
+I did not expect this surprise,surprise,5,i did not expect this surprise,i did not expect this surprise,i did not expect this surprise,i did not expect this surprise,expect surprise,expect surprise,2
+I am happy to see my friends,joy,2,i am happy to see my friends,i am happy to see my friends,i am happy to see my friends,i am happy to see my friends,happy see friends,happy see friends,3
+I miss my friends,sadness,4,i miss my friends,i miss my friends,i miss my friends,i miss my friends,miss friends,miss friends,2
+This situation makes me angry,anger,0,this situation makes me angry,this situation makes me angry,this situation makes me angry,this situation makes me angry,situation makes angry,situation makes angry,3
+I am frightened by the noise,fear,1,i am frightened by the noise,i am frightened by the noise,i am frightened by the noise,i am frightened by the noise,frightened noise,frightened noise,2
+I love beautiful flowers,love,3,i love beautiful flowers,i love beautiful flowers,i love beautiful flowers,i love beautiful flowers,love beautiful flowers,love beautiful flowers,3
+I was shocked by the news,surprise,5,i was shocked by the news,i was shocked by the news,i was shocked by the news,i was shocked by the news,shocked news,shocked news,2
+I am enjoying my day,joy,2,i am enjoying my day,i am enjoying my day,i am enjoying my day,i am enjoying my day,enjoying day,enjoying day,2
+I feel unhappy today,sadness,4,i feel unhappy today,i feel unhappy today,i feel unhappy today,i feel unhappy today,feel unhappy today,feel unhappy today,3
